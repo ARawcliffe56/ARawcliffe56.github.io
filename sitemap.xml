@@ -4,6 +4,18 @@
     <loc>http://localhost:3000/</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/experience</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/cases</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/working</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/disclaimer</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/error</loc>
   </url>
 </urlset>
